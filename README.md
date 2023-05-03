@@ -1,5 +1,8 @@
-# SafehouseNYC
+## Project Title: SafehouseNYC
+
 A web app for showcasing Crime statistics with Real Estate listings.
+
+## Project Description
 
 The goal of the project is to create a real estate marketplace application that not only provides
 real estate listings, but also showcases neighborhood crime statistics for each listing. The focus of
@@ -17,3 +20,16 @@ dwelling, leading to happier and more fulfilling lives.
 
 Our application is perfect for potential renters and buyers looking for a quick and easy way to get
 their dream home, for short-term or long-term.
+
+This folder is organized as follows.
+
+```
+proj/
+├── data/
+├── doc/
+├── figs/
+├── lib/
+└── output/
+```
+
+Please see each subfolder for a README file.
